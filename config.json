@@ -1,6 +1,6 @@
 {
   "name": "Cihan Yüksel - Student",
-  "description": "16 yaşımdayım, 4 yıldan beri İngilizce diline ilgi duymaktayım. Bilgim dahilinde İngilizce-Türkçe metin çevirileri yapmaktayım. Hobi olarak başladım, iş olarak yürütmeyi hedeflemekteyim. ",
+  "description": "16 yaşındayım, 4 yıldan beri İngilizce diline ilgi duymaktayım. Bilgim dahilinde İngilizce-Türkçe metin çevirileri yapmaktayım. Hobi olarak başladım, iş olarak yürütmeyi hedeflemekteyim. ",
   "short_name": "Cihan Yüksel",
   "start_url": "/",
   "display": "standalone",
@@ -33,7 +33,7 @@
     "content": {
       "title": "I’m Cihan,",
       "subtitle": "Student, from Çorum",
-      "info": "16 yaşımdayım, 4 yıldan beri İngilizce diline ilgi duymaktayım. Bilgim dahilinde İngilizce-Türkçe metin çevirileri yapmaktayım. Hobi olarak başladım, iş olarak yürütmeyi hedeflemekteyim. "
+      "info": "16 yaşındayım, 4 yıldan beri İngilizce diline ilgi duymaktayım. Bilgim dahilinde İngilizce-Türkçe metin çevirileri yapmaktayım. Hobi olarak başladım, iş olarak yürütmeyi hedeflemekteyim. "
     },
 
     "social": [
