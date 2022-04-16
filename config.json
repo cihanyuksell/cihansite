@@ -45,11 +45,11 @@
   },
   "portfolio": [
     {
-      "thumbnail": "projects/cbl/brand.png",
-      "title": "CBL",
+      "thumbnail": "projects/krg/brand.png",
+      "title": "Kargı Web",
       "tag": "Front-End",
-      "color": "yellow",
-      "live": "https://tinyurl.com/cblcomtr",
+      "color": "cihanRed",
+      "live": "https://kargi.web.tr",
       "images": [
         {"image": "projects/cbl/1.png", "name": "Anasayfa"},
         {"image": "projects/cbl/2.png", "name": "Fikstür"},
