@@ -1,7 +1,7 @@
 {
   "name": "Cihan Yüksel - Student",
   "description": "16 yaşımdayım, 4 yıldan beri İngilizce diline ilgi duymaktayım. Bilgim dahilinde İngilizce-Türkçe metin çevirileri yapmaktayım. Hobi olarak başladım, iş olarak yürütmeyi hedeflemekteyim. ",
-  "short_name": "Berk Altıok",
+  "short_name": "Cihan Yüksel",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#FFFFFF",
@@ -31,9 +31,9 @@
       ]
     },
     "content": {
-      "title": "I’m Berk,",
-      "subtitle": "Front End Developer, from Ankara.",
-      "info": "Çizilmiş bir arayüz tasarımını kodlamaktan zevk alıyorum. Alanında önemli şirketlerden start-up projelerine kadar geniş bir müşteri yelpazesi için profesyonel kodlama hizmeti sunuyorum. Mobil, tarayıcı, performans odaklı arayüz kodlamada, birebir CSS dökümünde  ve bir çok FrontEnd konusunda uzmanım."
+      "title": "I’m Cihan,",
+      "subtitle": "Student, from Çorum",
+      "info": "16 yaşımdayım, 4 yıldan beri İngilizce diline ilgi duymaktayım. Bilgim dahilinde İngilizce-Türkçe metin çevirileri yapmaktayım. Hobi olarak başladım, iş olarak yürütmeyi hedeflemekteyim. "
     },
 
     "social": [
