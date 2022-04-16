@@ -62,10 +62,10 @@
 
   ],
   "footer": {
-    "copy": "Berk Altıok",
+    "copy": "Cihan Yüksel  |  Developed by B.ALTIOK",
     "links": [
-      {"url": "https://berk.pw", "text": "Blog"},
-      {"url": "https://github.com/berkaltiok", "text": "Github"}
+      {"url": "https://me.cihanyuksel.com.tr", "text": "Homepage"},
+      {"url": "https://github.com/cihanyuksell", "text": "Github"}
     ]
   }
 }
