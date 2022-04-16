@@ -1,6 +1,6 @@
 {
-  "name": "Berk Altıok - Front-End Developer",
-  "description": "10 yılı aşkın sektörel deneyimimle bir çok projede yer aldım ve yaptım. Remote çalışma düzenim ve profesyonel iş anlayışım ile Front-End geliştiriciliği yapmaktayım. Kaliteli bir Front-End kodlaması istiyorsanız doğru adrestesiniz.",
+  "name": "Cihan Yüksel - Student",
+  "description": "16 yaşımdayım, 4 yıldan beri İngilizce diline ilgi duymaktayım. Bilgim dahilinde İngilizce-Türkçe metin çevirileri yapmaktayım. Hobi olarak başladım, iş olarak yürütmeyi hedeflemekteyim. ",
   "short_name": "Berk Altıok",
   "start_url": "/",
   "display": "standalone",
@@ -9,14 +9,14 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://avatars2.githubusercontent.com/u/17373485",
+      "src": "https://avatars.githubusercontent.com/u/66547306?v=4",
       "sizes": "460x460",
       "type": "image/png"
     }
   ],
   "about": {
     "top": {
-      "avatar": "https://avatars2.githubusercontent.com/u/17373485",
+      "avatar": "https://avatars.githubusercontent.com/u/66547306?v=4",
       "buttons": [
         {
           "url": "https://github.com/berkaltiok/berkaltiok.github.io",
@@ -24,9 +24,9 @@
           "color": "gray"
         },
         {
-          "url": "http://api.whatsapp.com/send?phone=905345829224",
-          "text": "Hire Me",
-          "color": "yellow"
+          "url": "http://t.me/YukselBey",
+          "text": "Contact",
+          "color": "cihanRed"
         }
       ]
     },
@@ -38,9 +38,9 @@
 
     "social": [
       {"url": "https://medium.com/berkaltiok", "icon": "medium-m"},
-      {"url": "https://github.com/berkaltiok", "icon": "github"},
-      {"url": "https://instagram.com/berk.pw", "icon": "instagram"},
-      {"url": "https://behance.net/berkaltiok", "icon": "behance"},
+      {"url": "https://github.com/", "icon": "github"},
+      {"url": "https://instagram.com/chn.yuksl", "icon": "instagram"},
+      {"url": "https://behance.net/cihanyuksell", "icon": "behance"},
       {"url": "https://join.skype.com/invite/wZuKsXi07fgq", "icon": "skype"}
     ]
   },
