@@ -9,7 +9,7 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://avatars2.githubusercontent.com/u/17373485",
+      "src": "https://avatars.githubusercontent.com/u/66547306?v=4",
       "sizes": "460x460",
       "type": "image/png"
     }
@@ -31,8 +31,8 @@
       ]
     },
     "content": {
-      "title": "I’m Berk,",
-      "subtitle": "Front End Developer, from Ankara.",
+      "title": "I’m Cihan,",
+      "subtitle": "Student, from Çorum.",
       "info": "Çizilmiş bir arayüz tasarımını kodlamaktan zevk alıyorum. Alanında önemli şirketlerden start-up projelerine kadar geniş bir müşteri yelpazesi için profesyonel kodlama hizmeti sunuyorum. Mobil, tarayıcı, performans odaklı arayüz kodlamada, birebir CSS dökümünde  ve bir çok FrontEnd konusunda uzmanım."
     },
 
