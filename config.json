@@ -1,5 +1,5 @@
 {
-  "name": "Berk Altıok - Front-End Developer",
+  "name": "Cihan Yüksel - Student",
   "description": "10 yılı aşkın sektörel deneyimimle bir çok projede yer aldım ve yaptım. Remote çalışma düzenim ve profesyonel iş anlayışım ile Front-End geliştiriciliği yapmaktayım. Kaliteli bir Front-End kodlaması istiyorsanız doğru adrestesiniz.",
   "short_name": "Berk Altıok",
   "start_url": "/",
@@ -24,9 +24,9 @@
           "color": "gray"
         },
         {
-          "url": "http://api.whatsapp.com/send?phone=905345829224",
-          "text": "Hire Me",
-          "color": "yellow"
+          "url": "https://t.me/YukselBey",
+          "text": "Contact",
+          "color": "cihanRed"
         }
       ]
     },
