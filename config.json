@@ -38,7 +38,7 @@
 
     "social": [
       {"url": "https://t.me/YukselBey", "icon": "telegram"},
-      {"url": "https://github.com/", "icon": "github"},
+      {"url": "https://github.com/cihanyuksell", "icon": "github"},
       {"url": "https://instagram.com/chn.yuksl", "icon": "instagram"}
 
     ]
@@ -52,10 +52,8 @@
       "live": "https://kargi.web.tr",
       "images": [
         {"image": "projects/cbl/1.png", "name": "Anasayfa"},
-        {"image": "projects/cbl/2.png", "name": "Fikstür"},
-        {"image": "projects/cbl/3.png", "name": "Takımlar"},
-        {"image": "projects/cbl/4.png", "name": "Takım Detay"},
-        {"image": "projects/cbl/5.png", "name": "Videolar"}
+        {"image": "projects/cbl/2.png", "name": "Haberler"},
+        {"image": "projects/cbl/3.png", "name": "Takımımız"}
       ]
     }
 
